@@ -131,20 +131,42 @@ PCA was applied for cluster visualisation and interpretability.
 
 ---
 
-## 📁 Repository Structure
-📦 Telecom-Marketing-Analytics
-┣ 📂 data
-┃ ┣ TeleCom_Dataset.csv
-┃ ┗ Data_dictionary.xlsx
-┣ 📂 notebooks
-┃ ┗ Marketing_Campagin.ipynb
-┣ 📂 report
-┃ ┣ Part-1_Report.pdf
-┃ ┗ Part-2_Report.pdf
-┗ README.md
-
 ## 🚀 How to Run the Project
 1. Clone this repository
 2. Install required Python libraries (`pandas`, `scikit-learn`, `matplotlib`)
 3. Open `Marketing_Campagin.ipynb`
 4. Run all cells sequentially to reproduce the analysis
+
+---
+
+## 📊 Results
+- The convergence of **Logistic Regression** interpretability and **Random Forest** predictive strength provided a dual-lens perspective on campaign effectiveness.
+- Logistic and Bayesian models offered strategic transparency by explaining how key factors such as call duration, prior campaign success, and economic stability influence subscription decisions.
+- The Random Forest model delivered superior predictive performance, enabling accurate identification of high-potential subscribers and improving campaign efficiency.
+- Together, these models balance **explainability and performance**, supporting both short-term optimisation and long-term strategic planning.
+
+---
+
+## 🤝 Contributing
+Contributions to this project are welcome.  
+If you have suggestions for improvements, enhancements, or alternative modelling approaches, feel free to:
+
+1. Fork the repository  
+2. Create a new branch  
+3. Commit your changes  
+4. Submit a pull request  
+
+All contributions that improve clarity, performance, or usability are appreciated.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project with appropriate attribution.
+
+---
+
+## 📬 Contact
+For any queries or discussions regarding this project, feel free to reach out:
+
+📧 **Email:** rathore10.sonu@gmail.com
